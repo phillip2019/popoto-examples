@@ -5,3 +5,4 @@ node_modules
 !node_modules/neo4j-driver-lite
 !node_modules/popoto
 !node_modules/vis
+node_modules/
